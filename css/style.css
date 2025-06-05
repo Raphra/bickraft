@@ -6,3 +6,5 @@
 @import "./ultilidades/cores.css";
 /* home */
 @import "./home/introducao.css";
+/* bicicletas lisa */
+@import "./bicicletas/bicicletas-lista.css";
